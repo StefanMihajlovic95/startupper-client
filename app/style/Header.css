@@ -1,0 +1,12 @@
+.su-header {
+    position: absolute;
+}
+
+.logout-button {
+    margin-right: 30%;
+    float: right;
+}
+
+.back-button-wrapper {
+    margin-left: 30%;
+}

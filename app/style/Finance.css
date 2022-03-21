@@ -1,0 +1,20 @@
+.single-finance-box-wrapper {
+    padding: 0px 20px 20px 20px;
+}
+
+.single-finance-box {
+    background-color: #6b5151;
+    border-radius: 7px;
+    padding: 25px 20px 0px 20px;
+
+}
+
+.value-span {
+    font-weight: 800;
+}
+
+.payment-completed-text {
+    margin-top: 66px;
+    color: #4bff0094;
+    padding-bottom: 12px;
+}

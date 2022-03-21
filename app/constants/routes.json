@@ -1,0 +1,13 @@
+{
+  "HOME": "/",
+  "DASHBOARD": "/dashboard",
+  "CLIENTS": "/clients",
+  "FINANCE": "/finance",
+  "PROJECTS": "/projects",
+  "EMPLOYEES": "/employees",
+  "CHARTS" : "/charts",
+  "PROJECT_SINGLE": "/project-single/:id",
+  "EMPLOYEE_SINGLE": "/employee-single/:id",
+  "CLIENT_SINGLE": "/client-single/:id",
+  "API_ENDPOINT": "http://localhost:3000/"
+}
